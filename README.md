@@ -30,7 +30,7 @@ g++ main.cpp -o cartorio
 cartorio.exe
 2. PowerShell:
 .\cartorio.exe
-## OBS: É necessário ter o compilador C++ (g++) instalado na máquina.
+### OBS: É necessário ter o compilador C++ (g++) instalado na máquina.
 
 ## Sobre o projeto:
 Projeto desenvolvido para consolidar conhecimentos em lógica de programação e manipulação de dados utilizando C++.
