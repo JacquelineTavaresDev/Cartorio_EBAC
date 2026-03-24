@@ -25,12 +25,12 @@ cd Cartorio_EBAC
 3. Compile o arquivo principal:
 g++ main.cpp -o cartorio
 
-# Executar no Windows
+## Executar no Windows
 1. Prompt de Comando (CMD):
 cartorio.exe
 2. PowerShell:
 .\cartorio.exe
-# OBS: É necessário ter o compilador C++ (g++) instalado na máquina.
+## OBS: É necessário ter o compilador C++ (g++) instalado na máquina.
 
 ## Sobre o projeto:
 Projeto desenvolvido para consolidar conhecimentos em lógica de programação e manipulação de dados utilizando C++.
